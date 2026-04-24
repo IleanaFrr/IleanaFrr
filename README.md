@@ -1,5 +1,5 @@
 # Bonjour, je m'appelle Ileana
-### Étudiante en Data Science à Angers
+# Étudiante en Data Science à Angers
 
 ## Outils et langages maitrisés
 
