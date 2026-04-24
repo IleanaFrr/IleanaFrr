@@ -1,4 +1,4 @@
-# Bonjour, je m'appelle [Ileana]
+# Bonjour, je m'appelle Ileana
 
 ### Étudiante en Data Science à Angers
 
