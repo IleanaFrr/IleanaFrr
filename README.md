@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092e20.svg?style=flat&logo=django&logoColor=white)
 
-## Projets effectués dans le cadre de mes études
+## Projets effectués dans le cadre de mes études:
 
 ### Deep Sea Adventure - jeu
 [→ Voir ](https://github.com/louise-scht/Deep-sea-adventure)
