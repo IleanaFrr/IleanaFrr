@@ -1,7 +1,7 @@
 # Bonjour, je m'appelle Ileana
 # Étudiante en Data Science à Angers
 
-## Outils et langages maîtrisés
+## Outils et langages maîtrisés:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/Sql-4479A1?style=flat&logo=postgresql&logoColor=white)
